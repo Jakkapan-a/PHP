@@ -1,4 +1,5 @@
 <?php
+// echo 'POST ';
 class Post_Controller
 {
 

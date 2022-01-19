@@ -8,3 +8,4 @@ class Delete_Controller{
  
     }
 }
+// echo 'DELETE ';
